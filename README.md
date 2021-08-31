@@ -5,16 +5,14 @@
 📕 CMU: 11-785 Intro to Deep Learning
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLp-0K3kfddPzNdZPX4p0lVi6AcDXBofuf)
 
-📕 MIT: 6.041 Probabilistic Systems Analysis and Applied Probability
-[Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+📕 MIT: 6S191 Deep Learning
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) /
+[Course Webpage](http://introtodeeplearning.com/)
 
 📕 Fast.ai: Practical Deep Learning for Coders
 [Course](https://course.fast.ai/) / 
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM) / 
 [Ethics](https://www.youtube.com/playlist?list=PLtmWHNX-gukIU6V33Bc8eP8OD41I4GywR)
-
-📕 MIT: 18.06SC Linear Algebra
-[Youtube Playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
 📕 CMU: CS Theory Toolkit
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
@@ -29,6 +27,26 @@
 📕 MLCourse.ai:
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX)
 
+📕 Stanford: Neural Networks for Visual Recognition
+[Youtube Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) /
+[Course Webpage](http://cs231n.stanford.edu/)
+
+---------------
+## Maths & Statistics
+
+📕 MIT: Statistics for Applications:
+[MIT OpenCourseware Videos](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/) /
+[Lecture Slides](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
+
+📕 MIT: 18.06SC Linear Algebra
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+
+📕 MIT: 6.041 Probabilistic Systems Analysis and Applied Probability
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+
+📕 CMU: 10-708 Probabilistic Graphical Model
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn) /
+[Course Webpage](https://www.cs.cmu.edu/~epxing/Class/10708-20/)
 ---------------
 
 ## NLP
@@ -46,6 +64,9 @@
 
 📕 CMU: CS11-737 Multilingual Natural Language Processing
 [Youtube Playlist](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
+
+📕 CMU: Algorithms for NLP
+[Course Website](http://www.cs.cmu.edu/afs/cs/user/tbergkir/www/11711fa17/)
 
 📕 AWS+MLU
 [Course](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) / 
