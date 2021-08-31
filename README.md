@@ -47,6 +47,8 @@
 📕 CMU: 10-708 Probabilistic Graphical Model
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn) /
 [Course Webpage](https://www.cs.cmu.edu/~epxing/Class/10708-20/)
+
+
 ---------------
 
 ## NLP
